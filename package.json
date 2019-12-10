@@ -23,8 +23,8 @@
     "url": "git+ssh://git@github.com:mateuszkocz/angular-coordinates.git"
   },
   "engines": {
-    "node": "7.9.0",
-    "npm": "4.2.0"
+    "node": ">=7.9.0",
+    "npm": ">=4.2.0"
   },
   "peerDependencies": {
     "@angular/core": ">=2.0.0 <5.0.0"
